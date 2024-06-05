@@ -5,6 +5,10 @@ This script enables touchless scrolling on your PC using simple hand gestures. L
 
 -Index and Middle Finger Up: Scroll Up
 
+# Stopping the Program
+
+To stop the program, press the ESC key.
+
 
 # Features
 
